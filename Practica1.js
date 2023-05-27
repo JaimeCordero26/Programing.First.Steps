@@ -102,6 +102,6 @@ const tablaMultiplicar = (num) => {
     }
     return tabla
 }
-// call/result here  =
+// call/result here  
 //console.log(tablaMultiplicar(2))
 
